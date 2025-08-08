@@ -197,6 +197,10 @@ There are many ship designs and schematics to pick in this repository, just go i
 > - Void Power Mod [link here](https://github.com/dfdyz/VoidPowerMod)
 > - Create: Steel Armor Blocks [link here](https://www.curseforge.com/minecraft/mc-mods/steel-armor-blocks)
 
+# Tutorials
+
+Tutorials in text located in the README.md file in the /craftyard folder of the repository, be sure to read them carefully. Video tutorials is scattered in YouTube, ill link the best of them in the text!
+
 # LICENSE
 
 Astrocosmos (the universe) is licensed under CC-BY-NC-SA 4.0 Universal. But **Astrocosmos Craftyard and Modpack is licensed under CC0 1.0 Universal**. 
