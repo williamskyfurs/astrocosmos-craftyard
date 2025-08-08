@@ -40,7 +40,7 @@ But, Astrocosmos started here, a space modpack
 
 ![First Starship Evermade with this modpack](https://cdn.modrinth.com/data/cached_images/552a1b00a57994b8cec1cf64c38793883cfb3ac1_0.webp)
 
-go here for the modpack download (WIP), go [here](https://github.com/williamskyfurs/astrocosmos-craftyard) for the craftyard repository
+go [here](https://modrinth.com/modpack/creative-infinity-astrocosmos) for the modpack download (WIP), go [here](https://github.com/williamskyfurs/astrocosmos-craftyard) for the craftyard repository
 
 </div>
 
@@ -50,7 +50,9 @@ Astrocosmos is a modpack from the series Creative Infinity that focuses on space
 
 # Astrocosmos Craftyard
 
-There's many ship design to pick in this repository, just go into "craftyard" folder that holds many categories! Just need to be reminded there are some mods that have to be installed in order to minimally succeed in pasting the schematic, the mods are listed as required down [here](#Mods_list)
+Astrocosmos Craftyard is github repository to store all my self-made minecraft ship designs and schematics.
+
+There are many ship designs and schematics to pick in this repository, just go into "craftyard" folder that holds many categories! need to be reminded there are some mods that have to be installed in order to minimally succeed in pasting the schematic, the mods are listed as required down [here](#Mods_list)
 
 # Mods list
 
@@ -194,3 +196,27 @@ There's many ship design to pick in this repository, just go into "craftyard" fo
 > Special Links
 > - Void Power Mod [link here](https://github.com/dfdyz/VoidPowerMod)
 > - Create: Steel Armor Blocks [link here](https://www.curseforge.com/minecraft/mc-mods/steel-armor-blocks)
+
+# LICENSE
+
+Astrocosmos (the universe) is licensed under CC-BY-NC-SA 4.0 Universal. But **Astrocosmos Craftyard and Modpack is licensed under CC0 1.0 Universal**. 
+
+**BUT EACH MOD IN THE MODPACK HAS THEIR VERY OWN LICENSE.** 
+
+Means that, the modpack and repository is free-for-all, and its mod is restricted under each mod's license. (_that how it works right?_)
+
+## CC0 1.0 Universal  Summary
+
+- **No Copyright**
+
+  The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+  You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.
+
+- **Other Information**
+
+  In no way are the patent or trademark rights of any person affected by CC0, nor are the rights that other persons may have in the work or in how the work is used, such as publicity or privacy rights.
+
+  Unless expressly stated otherwise, the person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.
+
+  When using or citing the work, you should not imply endorsement by the author or the affirmer.
