@@ -17,7 +17,7 @@
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/Astrocosmos%20Modpack-v2.2.0-abc?labelColor=brown&color=chartreuse)
-[![Static Badge](https://img.shields.io/badge/Astrocosmos%20Craftyard-v2.0.0-abc?labelColor=brown&color=chartreuse)](https://github.com/williamskyfurs/astrocosmos-craftyard)
+[![Static Badge](https://img.shields.io/badge/Astrocosmos%20Craftyard-v2.0.1-abc?labelColor=brown&color=chartreuse)](https://github.com/williamskyfurs/astrocosmos-craftyard)
 
 
 ![Static Badge](https://img.shields.io/badge/Other%20Projectss-chatreuse?style=for-the-badge)
@@ -27,8 +27,8 @@
 ](https://github.com/williamskyfurs/Astrocosmos/wiki)
 ![Static Badge](https://img.shields.io/badge/Angkasawan's%20Citadel-coming%20soon%20...-abc?logo=discord&logoColor=white&labelColor=blueviolet)
 
-![Static Badge](https://img.shields.io/badge/Astrocosmos%20(universe)-v.4.5.1-abc?labelColor=purple&color=chartreuse)
-![Static Badge](https://img.shields.io/badge/Astrocosmos%20Integrated-v0.2.0--beta.1-abc?labelColor=lightblue&color=chartreuse)
+![Static Badge](https://img.shields.io/badge/Astrocosmos%20(universe)-v.0.5.3-abc?labelColor=purple&color=chartreuse)
+![Static Badge](https://img.shields.io/badge/Astrocosmos%20Integrated-MOVED-abc?labelColor=lightblue&color=chartreuse)
 
 </div>
 
