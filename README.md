@@ -205,9 +205,9 @@ Tutorials in text located in the README.md file in the /craftyard folder of the 
 
 # LICENSE
 
-Astrocosmos (the universe) is licensed under CC-BY-NC-SA 4.0 Universal. But **Astrocosmos Craftyard and Modpack is licensed under CC0 1.0 Universal**. 
+Astrocosmos © 2025 by William Skyfurs is licensed under CC BY-NC-SA 4.0. But **Astrocosmos Modpack and Craftyard by William Skyfurs is marked CC0 1.0**. 
 
-**BUT EACH MOD IN THE MODPACK HAS THEIR VERY OWN LICENSE.** 
+**HOWEVER, EACH MOD IN THE MODPACK HAS THEIR VERY OWN LICENSE.** 
 
 Means that, the modpack and repository is free-for-all, and its mod is restricted under each mod's license. (_that how it works right?_)
 
