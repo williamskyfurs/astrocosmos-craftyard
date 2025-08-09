@@ -48,6 +48,8 @@ go [here](https://modrinth.com/modpack/creative-infinity-astrocosmos) for the mo
 
 Astrocosmos is a modpack from the series Creative Infinity that focuses on space exploration and mechanic (and also planning to minimize the military).
 
+Astrocosmos modpack needs to run with allocated RAM greater than 8GB (i dont know why QwQ)
+
 # Astrocosmos Craftyard
 
 Astrocosmos Craftyard is github repository to store all my self-made minecraft ship designs and schematics.
