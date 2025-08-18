@@ -13,7 +13,7 @@ a massive factory located in a planet in the Tarteeb planetary system!. Some of 
 
 # Craftyard Contents
 
-The detailed craftyard contents can be seen in the production-list.csv in the same folder, [here!](./production-list.csv) 
+The detailed craftyard contents can be seen in the production-list.csv in the same folder, [here!](./production-list.csv). The list contains data of producers, their products, product's nickname, product type, and current mark to identify each product from others. Those then followed by length, width, height, and mass to identify the size and volume. After that maximum crew and weight for the product's capacity, followed by top speed, accelaration, roll, pitch, and yaw for movement data.
 
 # Schematic Tutorials
 
@@ -36,3 +36,4 @@ The detailed craftyard contents can be seen in the production-list.csv in the sa
 # Ship Tutorials
 
 # Making your Own Ship
+
