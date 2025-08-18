@@ -20,7 +20,7 @@
 [![Static Badge](https://img.shields.io/badge/Astrocosmos%20Craftyard-v2.0.1-abc?labelColor=brown&color=chartreuse)](https://github.com/williamskyfurs/astrocosmos-craftyard)
 
 
-![Static Badge](https://img.shields.io/badge/Other%20Projectss-chatreuse?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Other%20Projects-chatreuse?style=for-the-badge)
 
 [![Static Badge](https://img.shields.io/badge/Roadmap-abc?style=flat&label=Worldbuilding%20Progress!&labelColor=blueviolet&color=chartreuse)](https://github.com/williamskyfurs/Astrocosmos/projects)
 [![Static Badge](https://img.shields.io/badge/Wiki-abc?style=flat&label=The%20Cosmic%20Archive!&labelColor=blueviolet&color=yellow)
