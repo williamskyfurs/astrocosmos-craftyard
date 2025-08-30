@@ -37,3 +37,7 @@ Its a merged resource pack from two packs. But because i forgot the two original
 
 ## Proof of Complementary Cosmic Patch
 The patcher is still uncertain about the patched shader permission, therefore i decided to not include it first in the modpack, ill update the modpack
+
+# QUESTION
+Is the moderation also applied to older version?
+if so, then ill be deleting it and make the new stay there
