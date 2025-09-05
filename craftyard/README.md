@@ -24,6 +24,8 @@ WIP
 
 WIP
 
+Shao's how to: https://discord.com/channels/244934352092397568/1307104773471731792
+
 # Making your Own Ship
 
 WIP
