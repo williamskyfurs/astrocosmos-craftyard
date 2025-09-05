@@ -9,6 +9,7 @@ a massive factory located in a planet in the Tarteeb planetary system!. Some of 
 - [Schematic Tutorials](#Schematic_Tutorials)
 - [Ship Tutorials](#Ship_Tutorials)
 - [Making your Own Ship](#Making_your_Own_Ship)
+- [Known Problems](#Known_Problems)
 
 
 # Craftyard Contents
@@ -17,8 +18,19 @@ The detailed craftyard contents can be seen in the production-list.csv in the sa
 
 # Schematic Tutorials
 
-## FAQ
+WIP
 
+# Ship Controls Tutorials
+
+WIP
+
+# Making your Own Ship
+
+WIP
+
+# Known Problems
+
+## Schematic Problems
 - If your schematic pasted uncomplete, and there's warning:
     > "Schematic had 0000 fatal errors
 
@@ -33,7 +45,38 @@ The detailed craftyard contents can be seen in the production-list.csv in the sa
 
     > ![WARNING]
     > This might need more allocated RAM
-# Ship Tutorials
 
-# Making your Own Ship
+## Ship Problems
+
+## Cosmic Horizon Problems (and Starlance)
+- Clockwork tab not opening:      
+Install Architectury api.
+
+- Cosmic Horizons 0.0.7.3 not working on mac:  
+It's a bug, use 0.0.7.2 instead.
+
+- Valkyrien Skies and/or Starlance not loading:  
+Make sure that Kotlin for Forge and Cosmic Horizons are installed.
+
+- Cosmic Horizons not working with Rubidium or Optifine:  
+Use Embeddium instead.
+
+- Starlance ships not going back into planets:  
+Update starlance to latest version.
+
+- Starlance/Valkyrien Skies crashes with std:system_error:  
+If you're using a server host, switch to another one. If you are self hosting, don't use pterodactyl.
+
+- Starlance/VS2 ship gets stuck at world height:  
+Double or triple the lodDetail configuration in vscore configs.
+
+- White floor in space with distant horizons:  
+Go to the DH config file and search for "ignoredRenderBlockCsv" and add cosmos:height_limiter to it.
+
+- Unable to see planets when far away from them:  
+Remove Tallyho and/or Simple Clouds
+
+- Unable to interact with blocks after giving them physics:  
+Downgrade forge to 47.4.0
+
 
