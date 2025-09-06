@@ -30,6 +30,8 @@ Shao's how to: https://discord.com/channels/244934352092397568/13071047734717317
 
 WIP
 
+Clockwork tutorial: https://youtu.be/K1G3xlKYMjQ?si=VcAVerIWeqiOpoYt
+
 # Known Problems
 
 - If there's a crash with problem "ticking", you may need to install/activate Neruina mod
