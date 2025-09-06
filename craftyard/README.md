@@ -49,7 +49,7 @@ WIP
     ```
     Change the TIMEOUT_TIME value, while the value must be greater than zero.
 
-    > ![WARNING]
+    > [!WARNING]  
     > This might need more allocated RAM
 
 - If you were pasting schematic, and then suddenly crashed with the problem "ticking"  
@@ -67,7 +67,7 @@ WIP
     ``` 
     Change `ALLOW_CHUNK_PLACEMENT_INTERRUPTION` and `ALLOW_CHUNK_UPDATE_INTERRUPTION` from true to false
 
-    > ![WARNING]
+    > [!WARNING]  
     > This might need more allocated RAM
 
 ## Ship Problems
