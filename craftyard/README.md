@@ -32,18 +32,40 @@ WIP
 
 # Known Problems
 
+- If there's a crash with problem "ticking", you may need to install/activate Neruina mod
+
 ## Schematic Problems
 - If your schematic pasted uncomplete, and there's warning:
     > "Schematic had 0000 fatal errors
-
+      
     Then, you may need to acces the world folder and find the VMod config folder located in /serverconfig. In the config file, you will find:
     ```
+    ...
     [VModConfig.Schematics]
 	#No Comment
 	#Range: > 0
 	TIMEOUT_TIME = 250
+    ...
     ```
     Change the TIMEOUT_TIME value, while the value must be greater than zero.
+
+    > ![WARNING]
+    > This might need more allocated RAM
+
+- If you were pasting schematic, and then suddenly crashed with the problem "ticking"  
+
+    Then, you may need to change you may need to acces the world folder and find the VMod config folder located in /serverconfig. In the config file, you will find:
+    ```
+    ...
+    [VModConfig.Schematics]
+    ...
+	#Allows ships to be created over several ticks (so that if you have a huge ship it won't freeze server). May be incompatible with some mods though.
+	ALLOW_CHUNK_PLACEMENT_INTERRUPTION = false
+	#Allows ships to be updated over several ticks (so that if you have a huge ship it won't freeze server). May be incompatible with some mods though.
+	ALLOW_CHUNK_UPDATE_INTERRUPTION = false
+    ...
+    ``` 
+    Change `ALLOW_CHUNK_PLACEMENT_INTERRUPTION` and `ALLOW_CHUNK_UPDATE_INTERRUPTION` from true to false
 
     > ![WARNING]
     > This might need more allocated RAM
