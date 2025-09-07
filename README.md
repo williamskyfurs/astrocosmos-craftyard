@@ -16,6 +16,9 @@
 
 <div align="center">
 
+![Static Badge](https://img.shields.io/badge/Minecraft-1.20.1-abc?labelColor=chartreuse&color=brown)
+![Static Badge](https://img.shields.io/badge/Forge-47.4.0-abc?labelColor=chartreuse&color=brown)
+
 ![Static Badge](https://img.shields.io/badge/Astrocosmos%20Modpack-v2.2.0-abc?labelColor=brown&color=chartreuse)
 [![Static Badge](https://img.shields.io/badge/Astrocosmos%20Craftyard-v2.0.1-abc?labelColor=brown&color=chartreuse)](https://github.com/williamskyfurs/astrocosmos-craftyard)
 
@@ -46,9 +49,10 @@ go [here](https://modrinth.com/modpack/creative-infinity-astrocosmos) for the mo
 
 # Astrocosmos Modpack
 
-Astrocosmos is a modpack from the series Creative Infinity that focuses on space exploration and mechanic (and also planning to minimize the military).
+Astrocosmos is a Minecraft modpack from the series Creative Infinity that focuses on space exploration and mechanic (and also planning to minimize the military).
 
-Astrocosmos modpack needs to run with allocated RAM greater than 8GB (i dont know why QwQ)
+> [!CAUTION]
+**Astrocosmos modpack needs to run in Minecraft 1.20.1 Forge 47.4.0 with allocated RAM greater than 8GB (i dont know why QwQ)**
 
 # Astrocosmos Craftyard
 
@@ -202,6 +206,18 @@ There are many ship designs and schematics to pick in this repository, just go i
 # Tutorials
 
 Tutorials in text located in the README.md file in the /craftyard folder of the repository, be sure to read them carefully. Video tutorials is scattered in YouTube, ill link the best of them in the text!
+
+# Contribution
+
+## Craftyard
+
+WIP  
+You can submit your creation here by creating the lore and following the Vehicle Naming System
+
+## Issues
+
+WIP  
+all known issues, tips, tricks, hint, tutorial can be uploaded/opened in the issues!
 
 # LICENSE
 
