@@ -227,6 +227,7 @@ Astrocosmos © 2025 by William Skyfurs is licensed under CC BY-NC-SA 4.0. But **
 
 Means that, the modpack and repository is free-for-all, and its mod is restricted under each mod's license. (_that how it works right?_)
 
+In conclusion, i stated this license only apllies/marks the contents in the /craftyards folder
 ## CC0 1.0 Universal  Summary
 
 - **No Copyright**
