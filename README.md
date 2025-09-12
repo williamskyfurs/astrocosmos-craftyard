@@ -221,25 +221,29 @@ all known issues, tips, tricks, hint, tutorial can be uploaded/opened in the iss
 
 # LICENSE
 
-Astrocosmos © 2025 by William Skyfurs is licensed under CC BY-NC-SA 4.0. But **Astrocosmos Modpack and Craftyard by William Skyfurs is marked CC0 1.0**. 
+Astrocosmos © 2025 by William Skyfurs is licensed under CC BY-NC-SA 4.0. But **<a href="https://creativecommons.org">Astrocosmos Craftyard and Modpack</a> © 2025 by <a href="https://creativecommons.org">William Skyfurs</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0**. 
 
 **HOWEVER, EACH MOD IN THE MODPACK HAS THEIR VERY OWN LICENSE.** 
 
-Means that, the modpack and repository is free-for-all, and its mod is restricted under each mod's license. (_that how it works right?_)
-
 In conclusion, i stated this license only apllies/marks the contents in the /craftyards folder
-## CC0 1.0 Universal  Summary
+## CC BY-NC 4.0 Attribution-NonCommercial 4.0 International Deed
 
-- **No Copyright**
+**You are free to:**
 
-  The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
 
-  You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below.
+    The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-- **Other Information**
+**Under the following terms:**
 
-  In no way are the patent or trademark rights of any person affected by CC0, nor are the rights that other persons may have in the work or in how the work is used, such as publicity or privacy rights.
+  - **Attribution** — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+  - **NonCommercial** — You may not use the material for commercial purposes .
+  - **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-  Unless expressly stated otherwise, the person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.
+**Notices:**
+  - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
 
-  When using or citing the work, you should not imply endorsement by the author or the affirmer.
+  - No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+![LICENSE](http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-nc.png)
