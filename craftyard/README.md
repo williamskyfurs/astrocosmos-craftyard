@@ -24,13 +24,14 @@ WIP
 
 WIP
 
-Shao's how to: https://discord.com/channels/244934352092397568/1307104773471731792
-
 # Making your Own Ship
 
 WIP
 
+Shao's how to: https://discord.com/channels/244934352092397568/1307104773471731792
 Clockwork tutorial: https://youtu.be/K1G3xlKYMjQ?si=VcAVerIWeqiOpoYt
+
+Valkyrien Space War, a new mod: https://youtu.be/Vg0fsDRmbBE?si=ZT06D3n1XVxwnI4D
 
 # Known Problems
 
