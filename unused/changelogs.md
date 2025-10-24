@@ -19,6 +19,16 @@
 - Deactivated Radium  
   Make Suplementaries's Sliding Block crashes the game
 
+## Updates
+
+## Additions
+- Kontraption mods, but in disabled state
+  - Added Kontraption mod
+  - Added Mekanism mod
+  - Added Mekanism Covers mod
+  - Added Mekanism: The Factory Must Grow mod
+  - Added Zero Core mod
+
 # Astrocosmos v3.0.0 Forge
 
 ## Notices
