@@ -4,17 +4,20 @@
 
 ## Notices
 - Clockwork's gyro are really buggeg and informed that it will be removed in the next Clockwork update
+- Might want to add Mekanism and Kotraption
+- might want to focus to relation and connection among available mods for now
 
 ## Removals
 - Removed Vertical Slabs Compat mod  
   already fulfilled by copycat
 - Removed Powah
   Former dependency of a mod
+- Removed More Enchantment Info
+  Not really needed
 
 ## Deactivations
 - Deactivated Radium  
   Make Suplementaries's Sliding Block crashes the game
-
 
 # Astrocosmos v3.0.0 Forge
 
