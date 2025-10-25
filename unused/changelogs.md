@@ -4,20 +4,17 @@
 
 ## Notices
 - Clockwork's gyro are really buggeg and informed that it will be removed in the next Clockwork update
-- Might want to add Mekanism and Kotraption
 - might want to focus to relation and connection among available mods for now
+- EMIs are compatible
 
 ## Removals
-- Removed Vertical Slabs Compat mod  
-  already fulfilled by copycat
-- Removed Powah
-  Former dependency of a mod
-- Removed More Enchantment Info
-  Not really needed
+- Removed Vertical Slabs Compat mod (already fulfilled by copycat)
+- Removed Powah (Former dependency of a mod)
+- Removed More Enchantment Info (Not really needed)
+- Removed EMI and its addon mods (not really needed)
 
 ## Deactivations
-- Deactivated Radium  
-  Make Suplementaries's Sliding Block crashes the game
+- Deactivated Radium (Make Suplementaries's Sliding Block crashes the game)
 
 ## Updates
 
@@ -43,6 +40,7 @@
 - Removed Unlimited Perihpheral Works mod
 - Removed Advanced Peripheral mod
 - Removed CH: Boom (because there is no recent development)
+- Removed Metaphysic mod (messing up with CC on VS ships)
 - Removed these mods because it is subtitute by Create: New Age mod
   - Create: Better Motors mod
   - Create: Craft and Additions mod
@@ -108,6 +106,7 @@ most of this mod are either unused, out of theme, or cause random crashes
   - Embeddium ✅
   - Embeddium Extra ✅
   - Entity Culling ✅
+  - Flerovium (test for issues with Get It Together, Drops!) ✅!!!
   - Oculus ✅
   - Async Particles ✅
   - Sodium Dynamic Lights ✅!!!
