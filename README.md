@@ -49,7 +49,7 @@ go [here](https://modrinth.com/modpack/creative-infinity-astrocosmos) for the mo
 
 # Astrocosmos Modpack
 
-Astrocosmos is a Minecraft modpack from the series Creative Infinity that focuses on space exploration and mechanic (and also planning to minimize the military).
+Astrocosmos is a Minecraft modpack from the series Creative Infinity that focuses on space exploration and mechanic. The main goal of this modpack is making you to be infinitely creative when building your world and ship, so you can admire and explore the microscale of our cosmos! This modpack also include fantasy military that at least blends subtly in your space-themed creativity. As the name suggest, this modpack is not suitable for playing in survival mode, but ill try to make every mod within are compatible for each other. Enjoy the modpack! Angkasa!
 
 > [!CAUTION]
 **Astrocosmos modpack needs to run in Minecraft 1.20.1 Forge 47.4.0 with allocated RAM greater than 8GB (i dont know why QwQ)**
@@ -201,7 +201,6 @@ There are many ship designs and schematics to pick in this repository, just go i
 
 > Special Links
 > - Void Power Mod [link here](https://github.com/dfdyz/VoidPowerMod)
-> - Create: Steel Armor Blocks [link here](https://www.curseforge.com/minecraft/mc-mods/steel-armor-blocks)
 
 # Tutorials
 
@@ -225,7 +224,7 @@ Astrocosmos © 2025 by William Skyfurs is licensed under CC BY-NC-SA 4.0. But **
 
 **HOWEVER, EACH MOD IN THE MODPACK HAS THEIR VERY OWN LICENSE.** 
 
-In conclusion, i stated this license only apllies/marks the contents in the /craftyards folder
+In conclusion, i stated this license only apllies/marks the contents in the /astrocosmos-craftyards folder
 ## CC BY-NC 4.0 Attribution-NonCommercial 4.0 International Deed
 
 **You are free to:**
