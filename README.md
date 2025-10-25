@@ -60,7 +60,9 @@ Astrocosmos Craftyard is github repository to store all my self-made minecraft s
 
 There are many ship designs and schematics to pick in this repository, just go into "craftyard" folder that holds many categories! need to be reminded there are some mods that have to be installed in order to minimally succeed in pasting the schematic, the mods are listed as required down [here](#Mods_list)
 
-# Mods list
+# list of Contents
+
+## Modlist
 
 | Num. | Mod                                          | by                    | Required | Optional | Space | Mechanic | Building | QoL | Utils and Performs | Library |
 | ---- | -------------------------------------------- | --------------------- | -------- | -------- | ----- | -------- | -------- | --- | ------------------ | ------- |
@@ -202,6 +204,10 @@ There are many ship designs and schematics to pick in this repository, just go i
 > Special Links
 > - Void Power Mod [link here](https://github.com/dfdyz/VoidPowerMod)
 
+## Resource Pack and Shader List
+
+> WIP
+
 # Tutorials
 
 Tutorials in text located in the README.md file in the /craftyard folder of the repository, be sure to read them carefully. Video tutorials is scattered in YouTube, ill link the best of them in the text!
@@ -246,3 +252,4 @@ In conclusion, i stated this license only apllies/marks the contents in the /ast
   - No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 ![LICENSE](http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-nc.png)
+da
