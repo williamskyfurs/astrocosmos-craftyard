@@ -1,11 +1,12 @@
 # Changelogs
 
-# Astrocosmos v3.1.0
+# Astrocosmos v3.1.0-beta Forge
 
 ## Notices
 - Clockwork's gyro are really buggeg and informed that it will be removed in the next Clockwork update
 - might want to focus to relation and connection among available mods for now
 - EMIs are compatible
+- Gregtech arent compatible
 
 ## Removals
 - Removed Vertical Slabs Compat mod (already fulfilled by copycat)
@@ -17,6 +18,7 @@
 - Deactivated Radium (Make Suplementaries's Sliding Block crashes the game)
 
 ## Updates
+- Updates performance mods, **except MCreatorMemFix**
 
 ## Additions
 - Kontraption mods, but in disabled state
@@ -41,6 +43,7 @@
 - Removed Advanced Peripheral mod
 - Removed CH: Boom (because there is no recent development)
 - Removed Metaphysic mod (messing up with CC on VS ships)
+- Removed Every Compat mos (no related to the theme)
 - Removed these mods because it is subtitute by Create: New Age mod
   - Create: Better Motors mod
   - Create: Craft and Additions mod
