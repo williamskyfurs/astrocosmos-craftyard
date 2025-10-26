@@ -64,149 +64,193 @@ There are many ship designs and schematics to pick in this repository, just go i
 
 ## Modlist
 
-| Num. | Mod                                          | by                    | Required | Optional | Space | Mechanic | Building | QoL | Utils and Performs | Library |
-| ---- | -------------------------------------------- | --------------------- | -------- | -------- | ----- | -------- | -------- | --- | ------------------ | ------- |
-| 1    | Better Ships                                 | grillo78              | ✅        |          | ✅     |          |          |     |                    |         |
-| 2    | CH: BOOM                                     | atomdev               | ✅        |          | ✅     |          |          |     |                    |         |
-| 3    | Cosmic Horizons                              | manya_DEA_TH          | ✅        |          | ✅     |          |          |     |                    |         |
-| 4    | Deep Space                                   | G_Mungus              | ✅        |          | ✅     | ✅        |          |     |                    |         |
-| 5    | Pacific's Specifics                          | PacificCyan           | ✅        |          | ✅     |          |          |     |                    |         |
-| 6    | Starlance: Valkyrien Skies X Cosmic Horizons | Starlance             | ✅        |          | ✅     |          |          |     |                    |         |
-| 7    | Advanced Peripherals                         | seniorendi            | ✅        |          |       | ✅        |          |     |                    |         |
-| 8    | Architectury API                             | architectury          | ✅        |          |       |          |          |     |                    | ✅       |
-| 9    | Botarium                                     | Terrarium             | ✅        |          |       |          |          |     |                    | ✅       |
-| 10   | CC: Tweaked                                  | squiddev              | ✅        |          |       | ✅        |          |     |                    |         |
-| 11   | CC: VS                                       | TectTastic            | ✅        |          |       | ✅        |          |     |                    |         |
-| 12   | CC:C Bridge                                  | Sammy                 | ✅        |          |       | ✅        |          |     |                    |         |
-| 13   | Clockwork: Create x Valkyrien Skies          | rubydesic             | ✅        |          |       | ✅        |          |     |                    |         |
-| 14   | Cloth Config v10 API                         | shedaniel             | ✅        |          |       |          |          |     |                    | ✅       |
-| 15   | Copies & Cats                                | Redcat_SVIII          | ✅        |          |       |          | ✅        |     |                    |         |
-| 16   | Create                                       | simibubi              | ✅        |          |       | ✅        |          |     |                    |         |
-| 17   | Create: Copycats+                            | copycats-plus         | ✅        |          |       | ✅        | ✅        |     |                    |         |
-| 18   | Create: Interactive                          | rubydesic             | ✅        |          |       | ✅        |          |     |                    |         |
-| 19   | Create: Propulsion                           | DeltaSF               | ✅        |          |       | ✅        |          |     |                    |         |
-| 20   | Create: Tweaked Controllers                  | getItemFromBlock      | ✅        |          |       | ✅        |          |     |                    |         |
-| 21   | Drive-By-Wire Mod                            | WIP                   | ✅        |          |       | ✅        |          |     |                    |         |
-| 22   | FramedBlocks                                 | XFactHD               | ✅        |          |       |          | ✅        |     |                    |         |
-| 23   | GeckoLib 4                                   | Gecko                 | ✅        |          |       |          |          |     |                    | ✅       |
-| 24   | GeckoLibIrisCompat                           | ElocinDev             | ✅        |          |       |          |          |     |                    | ✅       |
-| 25   | Kotlin For Forge                             | thedarkcolour         | ✅        |          |       |          |          |     |                    | ✅       |
-| 26   | KubeJS                                       | KubeJS                | ✅        |          |       |          |          |     |                    | ✅       |
-| 27   | KubeJS Create                                | KubeJS                | ✅        |          |       |          |          |     |                    | ✅       |
-| 28   | KubeVS                                       | TectTastic            | ✅        |          |       |          |          |     |                    | ✅       |
-| 29   | MaFgLib                                      | ThinkingStudio        | ✅        |          |       |          |          |     |                    | ✅       |
-| 30   | Metaphysics                                  | fashaodesu            | ✅        |          |       | ✅        |          |     |                    |         |
-| 31   | Moonlight Library                            | MehVahdJukaar         | ✅        |          |       |          |          |     |                    | ✅       |
-| 32   | Rhino                                        | KubeJS                | ✅        |          |       |          |          |     |                    | ✅       |
-| 33   | Scribble                                     | chrrs                 | ✅        |          |       |          |          | ✅   |                    |         |
-| 34   | ToadLib                                      | Mr.Toad               | ✅        |          |       |          |          |     |                    | ✅       |
-| 35   | Tom's Peripherals                            | tom5454               | ✅        |          |       | ✅        |          |     |                    |         |
-| 36   | Trackwork Mod                                | Endalion              | ✅        |          |       | ✅        |          |     |                    |         |
-| 37   | TxniLib                                      | Txni                  | ✅        |          |       |          |          |     |                    | ✅       |
-| 38   | UnlimitedPeripheralWorks                     | SirEdvin              | ✅        |          |       | ✅        |          |     |                    |         |
-| 39   | Valkyrien Sails                              | Quoissant             | ✅        |          |       | ✅        |          |     |                    |         |
-| 40   | Valkyrien Skies 2                            | rubydesic             | ✅        |          |       | ✅        |          |     |                    |         |
-| 41   | Vertical Slabs Compat                        | MehVahdJukaar         | ✅        |          |       |          | ✅        |     |                    |         |
-| 42   | Vlib                                         | G_Mungus              | ✅        |          |       |          |          |     |                    | ✅       |
-| 43   | VMod                                         | SuperSpaceEye         | ✅        |          |       | ✅        |          | ✅   |                    |         |
-| 44   | VoidPower                                    | dfdyz                 | ✅        |          |       | ✅        |          |     |                    |         |
-| 45   | VS Addition                                  | WIP                   | ✅        |          |       | ✅        |          |     |                    |         |
-| 46   | VS Eureka Mod                                | WIP                   | ✅        |          |       | ✅        |          |     |                    |         |
-| 47   | VS Hyperdrive                                | nullsec               | ✅        |          |       | ✅        |          |     |                    |         |
-| 48   | VS Orbit                                     | WIP                   | ✅        |          |       | ✅        |          |     |                    |         |
-| 49   | VS Tournament Mod                            | alex-s168             | ✅        |          |       | ✅        |          |     |                    |         |
-| 50   | BadOptimizations                             | thosea                |          | ✅        |       |          |          |     | ✅                  |         |
-| 51   | BetterF3                                     | TreyRuffy             |          | ✅        |       |          |          |     | ✅                  |         |
-| 52   | Canary                                       | AbdElAziz             |          | ✅        |       |          |          |     | ✅                  |         |
-| 53   | Chloride                                     | SrRapero720           |          | ✅        |       |          |          |     | ✅                  |         |
-| 54   | Controlling                                  | jaredlll08            |          | ✅        |       |          |          |     | ✅                  |         |
-| 55   | Create Tab Fix                               | Takkkom               |          | ✅        |       |          |          |     | ✅                  |         |
-| 56   | Create: Big Contraptions                     | muriplz               |          | ✅        |       | ✅        |          |     | ✅                  |         |
-| 57   | Dynamic FPS                                  | juliand665            |          | ✅        |       |          |          |     | ✅                  |         |
-| 58   | Embeddium                                    | FiniteReality         |          | ✅        |       |          |          |     | ✅                  |         |
-| 59   | Embeddium Extra                              | dima_dencep           |          | ✅        |       |          |          |     | ✅                  |         |
-| 60   | EMI                                          | Emi                   |          | ✅        |       |          |          |     | ✅                  |         |
-| 61   | EntityCulling                                | tr7zw                 |          | ✅        |       |          |          |     | ✅                  |         |
-| 62   | FastBoot                                     | dnlayu                |          | ✅        |       |          |          |     | ✅                  |         |
-| 63   | Ferrite Core                                 | malte0811             |          | ✅        |       |          |          |     | ✅                  |         |
-| 64   | Forgified Fabric API                         | Sinytra               |          | ✅        |       |          |          |     | ✅                  |         |
-| 65   | GPUTape                                      | Mr.Toad               |          | ✅        |       |          |          |     | ✅                  |         |
-| 66   | ImmediatelyFast                              | RaphiMC               |          | ✅        |       |          |          |     | ✅                  |         |
-| 67   | Jade                                         | Snownee               |          | ✅        |       |          |          |     | ✅                  |         |
-| 68   | Jade Addons                                  | Snownee               |          | ✅        |       |          |          |     | ✅                  |         |
-| 69   | Jade-VS                                      | zyxkad                |          | ✅        |       |          |          |     | ✅                  |         |
-| 70   | Memory Leak Fix                              | FX                    |          | ✅        |       |          |          |     | ✅                  |         |
-| 71   | ModernFix                                    | embeddedt             |          | ✅        |       |          |          |     | ✅                  |         |
-| 72   | Noisium                                      | Steveplays            |          | ✅        |       |          |          |     | ✅                  |         |
-| 73   | Redirected                                   | Txni                  |          | ✅        |       |          |          |     | ✅                  |         |
-| 74   | Rubidium (Embeddium)                         | dima_dencep           |          | ✅        |       |          |          |     | ✅                  |         |
-| 75   | Saturn                                       | AbdElAziz             |          | ✅        |       |          |          |     | ✅                  |         |
-| 76   | Searchables                                  | jaredlll08            |          | ✅        |       |          |          |     | ✅                  |         |
-| 77   | Smooth Boot (Reloaded)                       | AbdElAziz             |          | ✅        |       |          |          |     | ✅                  |         |
-| 78   | Starlight                                    | spottedleaf           |          | ✅        |       |          |          |     | ✅                  |         |
-| 79   | Advanced Book                                | Ennou                 |          | ✅        |       |          |          | ✅   |                    |         |
-| 80   | AlmostUnified                                | Almost Reliable       |          | ✅        |       |          |          |     |                    | ✅       |
-| 81   | Amendments                                   | MehVahdJukaar         |          | ✅        |       |          | ✅        |     |                    |         |
-| 82   | Another Furniture                            | Starfish Studios      |          | ✅        |       |          | ✅        |     |                    |         |
-| 83   | Axiom                                        | Moulberry             |          | ✅        |       |          | ✅        |     |                    |         |
-| 84   | CBC Advanced Technology                      | dsvv-modding          |          | ✅        |       | ✅        |          |     |                    |         |
-| 85   | Clockwork Additions                          | GuyApooye             |          | ✅        |       | ✅        |          |     |                    |         |
-| 86   | Connector                                    | Sinytra               |          | ✅        |       |          |          |     |                    | ✅       |
-| 87   | Constant Music                               | OdinOkland            |          | ✅        |       |          |          | ✅   |                    |         |
-| 88   | Create : Encased                             | iglee42               |          | ✅        |       | ✅        |          |     |                    |         |
-| 89   | Create Additions & Synthetics                | WorkLifeBalance       |          | ✅        |       | ✅        |          |     |                    |         |
-| 90   | Create Big Cannons                           | realRobotix           |          | ✅        |       | ✅        |          |     |                    |         |
-| 91   | Create Crafts & Additions                    | dsvv-modding          |          | ✅        |       | ✅        |          |     |                    |         |
-| 92   | Create Deco                                  | talrey                |          | ✅        |       | ✅        | ✅        |     |                    |         |
-| 93   | Create Deco Additions                        | MrRedstoneToGo        |          | ✅        |       | ✅        | ✅        |     |                    |         |
-| 94   | Create Diesel Generators                     | george8188625         |          | ✅        |       | ✅        |          |     |                    |         |
-| 95   | Create Dynamic Light                         | leon-o                |          | ✅        |       | ✅        |          | ✅   |                    |         |
-| 96   | Create Ender Transmission                    | RuochenFu21           |          | ✅        |       | ✅        |          |     |                    |         |
-| 97   | Create Kinetic                               | WIP                   |          | ✅        |       | ✅        |          |     |                    |         |
-| 98   | Create Stuff & Additions                     | furti-two             |          | ✅        |       | ✅        |          | ✅   |                    |         |
-| 99   | Create: Addon Compatibility                  | Amronos               |          | ✅        |       | ✅        |          |     |                    | ✅       |
-| 100  | Create: Better Motors                        | Reggarf               |          | ✅        |       | ✅        |          |     |                    |         |
-| 101  | Create: Connected                            | Lysine                |          | ✅        |       | ✅        |          |     |                    |         |
-| 102  | Create: Design n' Decor                      | LopyLuna              |          | ✅        |       | ✅        | ✅        |     |                    |         |
-| 103  | Create: Dreams & Desires                     | LopyLuna              |          | ✅        |       | ✅        | ✅        |     |                    |         |
-| 104  | Create: Escalated                            | realRobotix           |          | ✅        |       | ✅        |          |     |                    |         |
-| 105  | Create: Extra Casing                         | Reggarf               |          | ✅        |       | ✅        |          |     |                    |         |
-| 106  | Create: Interiors                            | a0a7                  |          | ✅        |       | ✅        | ✅        |     |                    |         |
-| 107  | Create: Radars                               | Arsenalists of Create |          | ✅        |       | ✅        |          |     |                    |         |
-| 108  | Create: Security Program                     | To0pa                 |          | ✅        |       | ✅        |          |     |                    |         |
-| 109  | Create: Steam 'n' Rails                      | Ithundxr              |          | ✅        |       | ✅        |          |     |                    |         |
-| 110  | Create: Tank Defenses                        | Ruby                  |          | ✅        |       | ✅        | ✅        |     |                    |         |
-| 111  | Create: The Factory Must Grow                | drmangotea            |          | ✅        |       | ✅        |          |     |                    |         |
-| 112  | create: things and misc                      | To0pa                 |          | ✅        |       | ✅        |          |     |                    |         |
-| 113  | Create: Unify                                | LopyLuna              |          | ✅        |       | ✅        |          |     |                    | ✅       |
-| 114  | Dye Depot                                    | Ninni                 |          | ✅        |       |          | ✅        |     |                    |         |
-| 115  | Dye The World!                               | possible_triangle     |          | ✅        |       |          | ✅        | ✅   |                    |         |
-| 116  | Effortless Structure                         | Huskucraft            |          | ✅        |       |          | ✅        |     |                    |         |
-| 117  | Every Compat                                 | MehVahdJukaar         |          | ✅        |       |          | ✅        |     |                    | ✅       |
-| 118  | Fabric API Base                              | Fabric                |          | ✅        |       |          |          |     |                    | ✅       |
-| 119  | KubeJS TFMG                                  | Wolfieboy09           |          | ✅        |       |          |          |     |                    | ✅       |
-| 120  | Oculus                                       | Asek3                 |          | ✅        |       |          |          |     |                    | ✅       |
-| 121  | Oculus Flywheel Compat                       | leon-o                |          | ✅        |       |          |          |     |                    | ✅       |
-| 122  | Petrolpark's Library                         | petrolpark            |          | ✅        |       | ✅        |          |     |                    |         |
-| 123  | Petrol's Parts                               | petrolpark            |          | ✅        |       | ✅        |          |     |                    |         |
-| 124  | Powah                                        | Technici4n            |          | ✅        |       | ✅        |          |     |                    |         |
-| 125  | Resourceful Lib                              | Team Resourceful      |          | ✅        |       |          |          |     |                    | ✅       |
-| 126  | Resourcefulconfig                            | Team Resourceful      |          | ✅        |       |          |          |     |                    | ✅       |
-| 127  | Ritchie's Projectile Library                 | realRobotix           |          | ✅        |       |          |          |     |                    | ✅       |
-| 128  | Rolled Homogenous                            | WIP                   |          | ✅        |       | ✅        |          |     |                    |         |
-| 129  | Steel armor blocks                           | arhos_municios        |          | ✅        |       | ✅        |          |     |                    |         |
-| 130  | Supplementaries                              | MehVahdJukaar         |          | ✅        |       |          | ✅        |     |                    |         |
-| 131  | Tectonic                                     | Apollo                |          | ✅        |       |          |          | ✅   |                    |         |
-| 132  | Valkyrien Relogs                             | Acrogenous            |          | ✅        |       |          |          |     |                    | ✅       |
-| 133  | Valkyrien Skies + Supplementaries Cannon Fix | bigger212             |          | ✅        |       |          |          |     |                    | ✅       |
-| 134  | WorldEdit                                    | WIP                   |          | ✅        |       |          | ✅        |     |                    |         |
-
+| Num. | Mod                                          | by                                                                     | available on | Space | Machinery | Building | QoL | Utils and Performs | Library |
+| ---- | -------------------------------------------- | ---------------------------------------------------------------------- | :----------: | :---: | :-------: | :------: | :-: | :----------------: | :-----: |
+| 1    | Deep Space                                   | G_Mungus                                                               | ✅            | ✅     | ✅         |          |     |                    |         |
+| 2    | Kontraption                                  | illuc                                                                  | ✅            | ✅     | ✅         |          |     |                    |         |
+| 3    | VS Hyperdrive                                | Rural                                                                  | ✅            | ✅     | ✅         |          |     |                    |         |
+| 4    | VS Orbit                                     | Â§dCN_GOOD_GRASS                                                       | ✅            | ✅     | ✅         |          |     |                    |         |
+| 5    | <br>Valkyrien Space War                      | shao                                                                   | ✅            | ✅     |           |          |     |                    |         |
+| 6    | Better Ships                                 | grillo78                                                               | ✅            | ✅     |           |          |     |                    |         |
+| 7    | Cosmic Additions                             | YourFriendlyAxl                                                        | ✅            | ✅     |           |          |     |                    |         |
+| 8    | Cosmic Horizons                              | DEA__TH                                                                | ✅            | ✅     |           |          |     |                    |         |
+| 9    | Pacific's Specifics                          | PacificCyan                                                            | ✅            | ✅     |           |          |     |                    |         |
+| 10   | Starlance: Valkyrien Skies X Cosmic Horizons | Jcm, Brickyboy                                                         | ✅            | ✅     |           |          |     |                    |         |
+| 11   | Create Deco                                  | Kayla, Talrey                                                          | ✅            |       | ✅         | ✅        |     |                    |         |
+| 12   | Create Deco Additions                        | MrRedstoneToGo                                                         | ✅            |       | ✅         | ✅        |     |                    |         |
+| 13   | Create: Copycats+                            | Lysine, Bennyboy1695, Redcat_XVIII                                     | ✅            |       | ✅         | ✅        |     |                    |         |
+| 14   | Create: Design n' Decor                      | DrMangoTea, Milky, Luna, Pepa, Spydnel                                 | ✅            |       | ✅         | ✅        |     |                    |         |
+| 15   | Create: Dreams & Desires                     | LopyLuna                                                               | ✅            |       | ✅         | ✅        |     |                    |         |
+| 16   | Create: Interiors                            | sudolev                                                                | ✅            |       | ✅         | ✅        |     |                    |         |
+| 17   | Create: Tank Defenses                        | ItsRuby05                                                              | ✅            |       | ✅         | ✅        |     |                    |         |
+| 18   | Create Dynamic Light                         | Leon                                                                   | ✅            |       | ✅         |          | ✅   |                    |         |
+| 19   | Create Stuff & Additions                     | Furti_Two                                                              | ✅            |       | ✅         |          | ✅   |                    |         |
+| 20   | Create Unlimited                             | rdh                                                                    | ✅            |       | ✅         |          | ✅   |                    |         |
+| 21   | Create: Unclamped                            | TechTastic                                                             | ✅            |       | ✅         |          | ✅   |                    |         |
+| 22   | VMod                                         | SpaceEye                                                               | ✅            |       | ✅         |          | ✅   |                    |         |
+| 23   | Valkyrien Skies + Supplementaries Cannon Fix | bigger212                                                              | ✅            |       | ✅         |          |     | ✅                  | ✅       |
+| 24   | Create: Big Contraptions                     | MuriPlz                                                                | ✅            |       | ✅         |          |     | ✅                  |         |
+| 25   | Create: Addon Compatibility                  | Amronos                                                                | ✅            |       | ✅         |          |     |                    | ✅       |
+| 26   | Create: Unify                                | LopyLuna                                                               | ✅            |       | ✅         |          |     |                    | ✅       |
+| 27   | KubeJS + CC: Tweaked                         | Wolfieboy09                                                            | ✅            |       | ✅         |          |     |                    | ✅       |
+| 28   | CBC Advanced Technology                      | _dsvv                                                                  | ✅            |       | ✅         |          |     |                    |         |
+| 29   | CC: Tweaked                                  | Daniel Ratcliffe, Aaron Mills, SquidDev                                | ✅            |       | ✅         |          |     |                    |         |
+| 30   | CC: VS                                       | TectTastic                                                             | ✅            |       | ✅         |          |     |                    |         |
+| 31   | CC:C Bridge                                  | Sammy L. Koch                                                          | ✅            |       | ✅         |          |     |                    |         |
+| 32   | Clockwork Additions                          | GuyApooye                                                              | ✅            |       | ✅         |          |     |                    |         |
+| 33   | Clockwork: Create x Valkyrien Skies          | rubydesic                                                              | ✅            |       | ✅         |          |     |                    |         |
+| 34   | Create                                       | simibubi                                                               | ✅            |       | ✅         |          |     |                    |         |
+| 35   | Create : Encased                             | iglee42                                                                | ✅            |       | ✅         |          |     |                    |         |
+| 36   | Create Additions & Synthetics                | WorkLifeBalance                                                        | ✅            |       | ✅         |          |     |                    |         |
+| 37   | Create Big Cannons                           | rbasamoyai                                                             | ✅            |       | ✅         |          |     |                    |         |
+| 38   | Create Diesel Generators                     | kamieÅ„-bot AKA George VI AKA Jesz                                     | ✅            |       | ✅         |          |     |                    |         |
+| 39   | Create Ender Transmission                    | Forsteri                                                               | ✅            |       | ✅         |          |     |                    |         |
+| 40   | Create Kinetic                               | Zipcoder933                                                            | ✅            |       | ✅         |          |     |                    |         |
+| 41   | Create Utilities                             | Duquee_                                                                | ✅            |       | ✅         |          |     |                    |         |
+| 42   | Create: Better Storages                      | LopyLuna                                                               | ✅            |       | ✅         |          |     |                    |         |
+| 43   | Create: Connected                            | Lysine                                                                 | ✅            |       | ✅         |          |     |                    |         |
+| 44   | Create: Escalated                            | rbasamoyai                                                             | ✅            |       | ✅         |          |     |                    |         |
+| 45   | Create: Extra Casing                         | Reggarf aka Anoop Singh                                                | ✅            |       | ✅         |          |     |                    |         |
+| 46   | Create: Interactive                          | rubydesic                                                              | ✅            |       | ✅         |          |     |                    |         |
+| 47   | Create: New Age                              | Antarctic Gardens                                                      | ✅            |       | ✅         |          |     |                    |         |
+| 48   | Create: Propulsion                           | Sergey Feduk                                                           | ✅            |       | ✅         |          |     |                    |         |
+| 49   | Create: Radars                               | HappySG, CeoOfGoogle, Ray(furuochen)                                   | ✅            |       | ✅         |          |     |                    |         |
+| 50   | Create: Steam 'n' Rails                      | The Railways Team                                                      | ✅            |       | ✅         |          |     |                    |         |
+| 51   | Create: The Factory Must Grow                | DrMangoTea, Pepa, Milky, Luna                                          | ✅            |       | ✅         |          |     |                    |         |
+| 52   | create: things and misc                      | To0pa, Unusual Squad, MCreator                                         | ✅            |       | ✅         |          |     |                    |         |
+| 53   | Create: Tweaked Controllers                  | getItemFromBlock                                                       | ✅            |       | ✅         |          |     |                    |         |
+| 54   | Drive-By-Wire Mod                            | Endalion                                                               | ✅            |       | ✅         |          |     |                    |         |
+| 55   | Mekanism                                     | Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd                   | ✅            |       | ✅         |          |     |                    |         |
+| 56   | Mekanism Covers                              | D4rkness_King                                                          | ✅            |       | ✅         |          |     |                    |         |
+| 57   | Mekanism TFMG Compat                         | Akacio Bahno                                                           | ✅            |       | ✅         |          |     |                    |         |
+| 58   | Petrolpark's Library                         | petrolpark                                                             | ✅            |       | ✅         |          |     |                    |         |
+| 59   | Petrol's Parts                               | petrolpark                                                             | ✅            |       | ✅         |          |     |                    |         |
+| 60   | Rolled Homogenous                            | qarsan                                                                 | ✅            |       | ✅         |          |     |                    |         |
+| 61   | Scorched Guns                                | ribs                                                                   | ✅            |       | ✅         |          |     |                    |         |
+| 62   | Steel armor blocks                           | minucios                                                               | ✅            |       | ✅         |          |     |                    |         |
+| 63   | Trackwork Mod                                | Endalion                                                               | ✅            |       | ✅         |          |     |                    |         |
+| 64   | Valkyrien Sails                              | Quinton Center                                                         | ✅            |       | ✅         |          |     |                    |         |
+| 65   | Valkyrien Skies 2                            | rubydesic                                                              | ✅            |       | ✅         |          |     |                    |         |
+| 66   | VoidPower                                    | Tairitsu                                                               | Github       |       | ✅         |          |     |                    |         |
+| 67   | VS Addition                                  |                                                                        | ✅            |       | ✅         |          |     |                    |         |
+| 68   | VS Eureka Mod                                | rubydesic                                                              | ✅            |       | ✅         |          |     |                    |         |
+| 69   | VS Tournament Mod                            | alex-s168                                                              | ✅            |       | ✅         |          |     |                    |         |
+| 70   | VS:War And Peace                             | Lancas                                                                 | ✅            |       | ✅         |          |     |                    |         |
+| 71   | Dye The World!                               | possible_triangle                                                      | ✅            |       |           | ✅        | ✅   |                    |         |
+| 72   | Amendments                                   | MehVahdJukaar                                                          | ✅            |       |           | ✅        |     |                    |         |
+| 73   | Another Furniture                            | Starfish Studios                                                       | ✅            |       |           | ✅        |     |                    |         |
+| 74   | Axiom                                        | Moulberry                                                              | ✅            |       |           | ✅        |     |                    |         |
+| 75   | Copies & Cats                                | YourNameHere, OtherNameHere                                            | ✅            |       |           | ✅        |     |                    |         |
+| 76   | Dye Depot                                    | Yapetto, Ninni                                                         | ✅            |       |           | ✅        |     |                    |         |
+| 77   | Effortless Structure                         | Huskcasaca                                                             | ✅            |       |           | ✅        |     |                    |         |
+| 78   | FramedBlocks                                 | XFactHD                                                                | ✅            |       |           | ✅        |     |                    |         |
+| 79   | Supplementaries                              | MehVahdJukaar, Plantkillable                                           | ✅            |       |           | ✅        |     |                    |         |
+| 80   | Villager observatory                         | wario                                                                  | ✅            |       |           | ✅        |     |                    |         |
+| 81   | WorldEdit                                    | EngineHub                                                              | ✅            |       |           | ✅        |     |                    |         |
+| 82   | Pretty Rain                                  | Leclowndu93150, PigCart                                                | ✅            |       |           |          | ✅   | ✅                  |         |
+| 83   | Sodium Dynamic Lights                        | toni, LambdAurora                                                      | ✅            |       |           |          | ✅   | ✅                  |         |
+| 84   | Advanced Book                                | Eennou                                                                 | ✅            |       |           |          | ✅   |                    |         |
+| 85   | Better Clouds                                | Qendolin                                                               | ✅            |       |           |          | ✅   |                    |         |
+| 86   | Constant Music                               | Odin Okland                                                            | ✅            |       |           |          | ✅   |                    |         |
+| 87   | Drive Thru Sneak                             | Burghest                                                               | ✅            |       |           |          | ✅   |                    |         |
+| 88   | Scribble                                     | chrrrs                                                                 | ✅            |       |           |          | ✅   |                    |         |
+| 89   | Tectonic                                     | Apollo                                                                 | ✅            |       |           |          | ✅   |                    |         |
+| 90   | Vstuff                                       | yayEverest                                                             | ✅            |       |           |          | ✅   |                    |         |
+| 91   | Valkyrien Relogs                             | Acrogenous                                                             | ✅            |       |           |          |     | ✅                  | ✅       |
+| 92   | Alternate Current                            | Space Walker                                                           | ✅            |       |           |          |     | ✅                  |         |
+| 93   | AsyncParticles                               | Harvey_Husky                                                           |              |       |           |          |     | ✅                  |         |
+| 94   | Bad Packets                                  | deirn                                                                  | ✅            |       |           |          |     | ✅                  |         |
+| 95   | BadOptimizations                             | Thosea                                                                 | ✅            |       |           |          |     | ✅                  |         |
+| 96   | Better Fps - Render Distance[Forge]          | Someaddon                                                              | Curseforge   |       |           |          |     | ✅                  |         |
+| 97   | BetterF3                                     | TreyRuffy and cominixo                                                 | ✅            |       |           |          |     | ✅                  |         |
+| 98   | Catalogue                                    | MrCrayfish                                                             | Curseforge   |       |           |          |     | ✅                  |         |
+| 99   | Chloride                                     | SrRapero720                                                            | ✅            |       |           |          |     | ✅                  |         |
+| 100  | Chunky                                       | pop4959                                                                | ✅            |       |           |          |     | ✅                  |         |
+| 101  | Configured                                   | MrCrayfish                                                             | Curseforge   |       |           |          |     | ✅                  |         |
+| 102  | Controlling                                  | Jaredlll08                                                             | ✅            |       |           |          |     | ✅                  |         |
+| 103  | Crash Assistant                              | KostromDan                                                             | ✅            |       |           |          |     | ✅                  |         |
+| 104  | Cull Less Leaves Reforged                    | CCr4ft3r (this port), isXander (original fabric version)               | ✅            |       |           |          |     | ✅                  |         |
+| 105  | Dynamic FPS                                  | juliand665 & LostLuma                                                  | ✅            |       |           |          |     | ✅                  |         |
+| 106  | Embeddium                                    | embeddedt                                                              | ✅            |       |           |          |     | ✅                  |         |
+| 107  | Embeddium Extra                              | dima_dencep, FlashyReese                                               | ✅            |       |           |          |     | ✅                  |         |
+| 108  | EntityCulling                                | tr7zw                                                                  | ✅            |       |           |          |     | ✅                  |         |
+| 109  | Fast Async World Save[Forge/Fabric]          | Someaddon                                                              | Curseforge   |       |           |          |     | ✅                  |         |
+| 110  | FastBoot                                     | dnlayu                                                                 | ✅            |       |           |          |     | ✅                  |         |
+| 111  | Fastload-Reforged                            | AbdElAziz                                                              | ✅            |       |           |          |     | ✅                  |         |
+| 112  | Ferrite Core                                 | malte0811                                                              | ✅            |       |           |          |     | ✅                  |         |
+| 113  | Flerovium                                    | MoePus                                                                 | ✅            |       |           |          |     | ✅                  |         |
+| 114  | Forgified Fabric API                         | FabricMC, Sinytra                                                      | ✅            |       |           |          |     | ✅                  |         |
+| 115  | Get It Together, Drops!                      | bl4ckscor3                                                             | ✅            |       |           |          |     | ✅                  |         |
+| 116  | Gpu memory leak fix                          | Someaddon                                                              | Curseforge   |       |           |          |     | ✅                  |         |
+| 117  | GPUTape                                      | mr_toad                                                                | ✅            |       |           |          |     | ✅                  |         |
+| 118  | ImmediatelyFast                              | RK_01                                                                  | ✅            |       |           |          |     | ✅                  |         |
+| 119  | Jade                                         | Snownee                                                                | ✅            |       |           |          |     | ✅                  |         |
+| 120  | Jade Addons                                  | Snownee                                                                | ✅            |       |           |          |     | ✅                  |         |
+| 121  | Jade-VS                                      | zyxkad                                                                 | ✅            |       |           |          |     | ✅                  |         |
+| 122  | MCreator Memory Fix                          | Overcontrol1                                                           | ✅            |       |           |          |     | ✅                  |         |
+| 123  | Memory Leak Fix                              | FX - PR0CESS                                                           | ✅            |       |           |          |     | ✅                  |         |
+| 124  | MemorySweep                                  | Tki_sor                                                                | ✅            |       |           |          |     | ✅                  |         |
+| 125  | ModernFix                                    | embeddedt                                                              | ✅            |       |           |          |     | ✅                  |         |
+| 126  | Neruina                                      | Bawnorton                                                              | ✅            |       |           |          |     | ✅                  |         |
+| 127  | Noisium                                      | Steveplays28                                                           | ✅            |       |           |          |     | ✅                  |         |
+| 128  | Not Enough Crashes                           | Fudge                                                                  | ✅            |       |           |          |     | ✅                  |         |
+| 129  | Observable                                   | tasgon                                                                 | ✅            |       |           |          |     | ✅                  |         |
+| 130  | PacketFixer                                  | TonimatasDEV                                                           | ✅            |       |           |          |     | ✅                  |         |
+| 131  | Paxi                                         | YUNGNICKYOUNG                                                          | ✅            |       |           |          |     | ✅                  |         |
+| 132  | Radium                                       | dima_dencep, NanoLive                                                  | ✅            |       |           |          |     | ✅                  |         |
+| 133  | Redirected                                   | Toni                                                                   | ✅            |       |           |          |     | ✅                  |         |
+| 134  | Redirector                                   | TeamPotato                                                             | ✅            |       |           |          |     | ✅                  |         |
+| 135  | Remove Reloading Screen                      | dima_dencep                                                            | ✅            |       |           |          |     | ✅                  |         |
+| 136  | Saturn                                       | AbdElAziz                                                              | ✅            |       |           |          |     | ✅                  |         |
+| 137  | Searchables                                  | Jaredlll08                                                             | ✅            |       |           |          |     | ✅                  |         |
+| 138  | ServerCore                                   | Wesley1808                                                             | ✅            |       |           |          |     | ✅                  |         |
+| 139  | Shut Up GL Error                             | Jamalam                                                                | ✅            |       |           |          |     | ✅                  |         |
+| 140  | Smooth Boot (Reloaded)                       | AbdElAziz                                                              | ✅            |       |           |          |     | ✅                  |         |
+| 141  | Smoothchunk mod                              | Someaddon                                                              | Curseforge   |       |           |          |     | ✅                  |         |
+| 142  | Sodium Options API                           | toni                                                                   | ✅            |       |           |          |     | ✅                  |         |
+| 143  | Sodium Options Mod Compat                    | Toni, DeeChael                                                         | ✅            |       |           |          |     | ✅                  |         |
+| 144  | Spark                                        | Luck                                                                   | ✅            |       |           |          |     | ✅                  |         |
+| 145  | Starlight                                    | Spottedleaf                                                            | ✅            |       |           |          |     | ✅                  |         |
+| 146  | AlmostUnified                                | Almost Reliable                                                        | ✅            |       |           |          |     |                    | ✅       |
+| 147  | Architectury                                 | shedaniel                                                              | ✅            |       |           |          |     |                    | ✅       |
+| 148  | Botarium                                     | CodexAdrian                                                            | ✅            |       |           |          |     |                    | ✅       |
+| 149  | Cloth Config v10 API                         | shedaniel                                                              | ✅            |       |           |          |     |                    | ✅       |
+| 150  | Cupboard utilities                           | Someaddon                                                              | Curseforge   |       |           |          |     |                    | ✅       |
+| 151  | Curios API                                   | C4                                                                     | ✅            |       |           |          |     |                    | ✅       |
+| 152  | Framework                                    | MrCrayfish                                                             | Curseforge   |       |           |          |     |                    | ✅       |
+| 153  | Fzzy Config                                  | fzzyhmstrs                                                             | ✅            |       |           |          |     |                    | ✅       |
+| 154  | GeckoLib 4                                   | Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin                    | ✅            |       |           |          |     |                    | ✅       |
+| 155  | JamLib                                       | Jamalam                                                                | ✅            |       |           |          |     |                    | ✅       |
+| 156  | Kotlin for Forge                             | thedarkcolour                                                          | ✅            |       |           |          |     |                    | ✅       |
+| 157  | KubeJS                                       | LatvianModder                                                          | ✅            |       |           |          |     |                    | ✅       |
+| 158  | KubeJS Create                                | LatvianModder                                                          | ✅            |       |           |          |     |                    | ✅       |
+| 159  | KubeJS TFMG                                  | Wolfieboy09                                                            | ✅            |       |           |          |     |                    | ✅       |
+| 160  | KubeVS                                       | TectTastic                                                             | ✅            |       |           |          |     |                    | ✅       |
+| 161  | Lithostitched                                | Apollo                                                                 | ✅            |       |           |          |     |                    | ✅       |
+| 162  | Moonlight Library                            | MehVahdJukaar                                                          | ✅            |       |           |          |     |                    | ✅       |
+| 163  | Oculus                                       | NanoLive, dima_dencep, coderbot, IMS212, Justsnoopy30, FoundationGames | ✅            |       |           |          |     |                    | ✅       |
+| 164  | Oculus Flywheel Compat                       | Leon                                                                   | ✅            |       |           |          |     |                    | ✅       |
+| 165  | Resourceful Lib                              | ThatGravyBoat, Epic_Oreo                                               | ✅            |       |           |          |     |                    | ✅       |
+| 166  | Resourcefulconfig                            | Team Resourceful                                                       | ✅            |       |           |          |     |                    | ✅       |
+| 167  | Rhino                                        | latvian.dev, Mozilla                                                   | ✅            |       |           |          |     |                    | ✅       |
+| 168  | Ritchie's Projectile Library                 | rbasamoyai                                                             | ✅            |       |           |          |     |                    | ✅       |
+| 169  | Sinytra Connector                            | Sinytra                                                                | ✅            |       |           |          |     |                    | ✅       |
+| 170  | TxniLib                                      | Toni                                                                   | ✅            |       |           |          |     |                    | ✅       |
+| 171  | VLib                                         | G_Mungus                                                               | ✅            |       |           |          |     |                    | ✅       |
+| 172  | YetAnotherConfigLib                          | isXander                                                               | ✅            |       |           |          |     |                    | ✅       |
+| 173  | YUNG's API                                   | YUNGNICKYOUNG                                                          | ✅            |       |           |          |     |                    | ✅       |
+| 174  | Zero CORE 2                                  | ZeroNoRyouki                                                           | Curseforge   |       |           |          |     |                    | ✅       |
 > Special Links
 > - Void Power Mod [link here](https://github.com/dfdyz/VoidPowerMod)
 
 ## Resource Pack and Shader List
 
-> WIP
+- CH Remade by PacificCyan
+- Create Military Grade:Parade Protocol by blackeagleyt
+- ComplementaryReimagined_r5.5.1_with_cosmos_port (allowed patch by the license
+- Create: ComputerCraft by End_Rage
+- Mechanical Equation GUI pack by Royal_Bronzeror
+- Newer Age by Andromeda-Galaxy29
 
 # Tutorials
 
