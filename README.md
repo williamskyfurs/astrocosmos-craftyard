@@ -296,4 +296,3 @@ In conclusion, i stated this license only apllies/marks the contents in the /ast
   - No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 ![LICENSE](http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-nc.png)
-da
