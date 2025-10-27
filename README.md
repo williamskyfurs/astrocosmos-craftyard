@@ -49,7 +49,7 @@ go [here](https://modrinth.com/modpack/creative-infinity-astrocosmos) for the mo
 
 # Astrocosmos Modpack
 
-Astrocosmos is a Minecraft modpack from the series Creative Infinity that focuses on space exploration and mechanic. The main goal of this modpack is making you to be infinitely creative when building your world and ship, so you can admire and explore the microscale of our cosmos! This modpack also include fantasy military that at least blends subtly in your space-themed creativity. As the name suggest, this modpack is not suitable for playing in survival mode, but ill try to make every mod within are compatible for each other. Enjoy the modpack! Angkasa!
+Astrocosmos is a Minecraft modpack from the series Creative Infinity that focuses on space exploration and mechanic. The main goal of this modpack is making you to be infinitely creative when building your world and ship, so you can admire and explore the microscale of our cosmos! This modpack also include fantasy military that at least blends subtly in your space-themed creativity. As the name suggest, this modpack is non-progressional thus not suitable for playing in survival mode, but ill try to make every mod within are compatible for each other. Enjoy the modpack! Angkasa!
 
 > [!CAUTION]
 **Astrocosmos modpack needs to run in Minecraft 1.20.1 Forge 47.4.0 with allocated RAM greater than 8GB (i dont know why QwQ)**
@@ -58,7 +58,7 @@ Astrocosmos is a Minecraft modpack from the series Creative Infinity that focuse
 
 Astrocosmos Craftyard is github repository to store all my self-made minecraft ship designs and schematics.
 
-There are many ship designs and schematics to pick in this repository, just go into "craftyard" folder that holds many categories! need to be reminded there are some mods that have to be installed in order to minimally succeed in pasting the schematic, the mods are listed as required down [here](#Mods_list)
+There are many ship designs and schematics to pick in this repository, just go into "craftyard" folder that holds many categories! need to be reminded there are some mods that have to be installed in order to minimally succeed in pasting the schematic.
 
 # list of Contents
 
@@ -131,7 +131,7 @@ There are many ship designs and schematics to pick in this repository, just go i
 | 63   | Trackwork Mod                                | Endalion                                                               | ✅            |       | ✅         |          |     |                    |         |
 | 64   | Valkyrien Sails                              | Quinton Center                                                         | ✅            |       | ✅         |          |     |                    |         |
 | 65   | Valkyrien Skies 2                            | rubydesic                                                              | ✅            |       | ✅         |          |     |                    |         |
-| 66   | VoidPower                                    | Tairitsu                                                               | Github       |       | ✅         |          |     |                    |         |
+| 66   | VoidPower                                    | Tairitsu                                                               | [Github](https://github.com/dfdyz/VoidPowerMod)       |       | ✅         |          |     |                    |         |
 | 67   | VS Addition                                  |                                                                        | ✅            |       | ✅         |          |     |                    |         |
 | 68   | VS Eureka Mod                                | rubydesic                                                              | ✅            |       | ✅         |          |     |                    |         |
 | 69   | VS Tournament Mod                            | alex-s168                                                              | ✅            |       | ✅         |          |     |                    |         |
@@ -241,7 +241,7 @@ There are many ship designs and schematics to pick in this repository, just go i
 | 173  | YUNG's API                                   | YUNGNICKYOUNG                                                          | ✅            |       |           |          |     |                    | ✅       |
 | 174  | Zero CORE 2                                  | ZeroNoRyouki                                                           | Curseforge   |       |           |          |     |                    | ✅       |
 > Special Links
-> - Void Power Mod [link here](https://github.com/dfdyz/VoidPowerMod)
+> - Void Power Mod [link here]()
 
 ## Resource Pack and Shader List
 

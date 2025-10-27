@@ -57,7 +57,7 @@ You can use it as intended with 64-128 chunk render, or you can use it with stan
 - Embeddium ✅
 - Embeddium Extra ✅
 - Entity Culling ✅
-- Flerovium (test for issues with Get It Together, Drops!)
+- Flerovium (test for issues with Get It Together, Drops!) ✅!!!
 - Oculus ✅
 - Out Of Sight
 - Async Particles ✅

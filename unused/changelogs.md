@@ -5,6 +5,7 @@
 ## Notices
 - Clockwork's gyro are really buggeg and informed that it will be removed in the next Clockwork update
 - might want to focus to relation and connection among available mods for now
+- and making the world either create themed or futuristic themed
 - EMIs are compatible
 - Gregtech arent compatible
 
@@ -16,17 +17,25 @@
 
 ## Deactivations
 - Deactivated Radium (Make Suplementaries's Sliding Block crashes the game)
+- Deactivated Paxi (unsurely unused)
+- Deactivated Deep Space (no recent updates)
 
 ## Updates
 - Updates performance mods, **except MCreatorMemFix**
 
 ## Additions
+- Added CMDCam (therefore, and CreativeCore for cinematic views)
+- Added Create: Sabers mod (in disabled state)
+- Added Valkyrien Ice Breakers mod (in theme with water ships)
 - Kontraption mods, but in disabled state
   - Added Kontraption mod
   - Added Mekanism mod
   - Added Mekanism Covers mod
   - Added Mekanism: The Factory Must Grow mod
   - Added Zero Core mod
+- Added Create Military Grade Steel Signal resource pack
+- Added Create: Vanilla reimagined
+- Added Eureka Create
 
 # Astrocosmos v3.0.0 Forge
 
