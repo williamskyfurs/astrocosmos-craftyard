@@ -1,6 +1,6 @@
 # Changelogs
 
-# Astrocosmos v3.1.0-beta Forge
+# Astrocosmos v3.1.0 Forge
 
 ## Notices
 - Clockwork's gyro are really buggeg and informed that it will be removed in the next Clockwork update
@@ -24,15 +24,15 @@
 - Updates performance mods, **except MCreatorMemFix**
 
 ## Additions
-- Added CMDCam (therefore, and CreativeCore for cinematic views)
-- Added Create: Sabers mod (in disabled state)
 - Added Valkyrien Ice Breakers mod (in theme with water ships)
+- Added CMDCam (therefore, and CreativeCore for cinematic views, in disabled state)
 - Kontraption mods, but in disabled state
   - Added Kontraption mod
   - Added Mekanism mod
   - Added Mekanism Covers mod
   - Added Mekanism: The Factory Must Grow mod
   - Added Zero Core mod
+- Added Mekanism Weaponry (in disabled state)
 - Added Create Military Grade Steel Signal resource pack
 - Added Create: Vanilla reimagined
 - Added Eureka Create
