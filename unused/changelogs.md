@@ -34,6 +34,9 @@
 ## Additions
 - Added Modular Force Field System mod by QoM (force field)
 - Added What's That Slot mod (for knowing which to put)
+- Added Create Better FPS
+- Added Colorwheel + Patcher
+- Added Zero Point Labs
 
 # Astrocosmos v3.1.0 Forge
 
