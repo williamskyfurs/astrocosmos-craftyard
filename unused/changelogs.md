@@ -16,7 +16,7 @@
   - Create Steam and Rails
   - Create Dyanmic Light
   - Create The Factory Must Grow
- - Deactivate Valkyrien Skies addon mods (because it is not compatible with Create 6)
+- Deactivate Valkyrien Skies addon mods (because it is not compatible with Create 6)
   - Clockwork
   - Create: Interactive
   - Trackwork
@@ -32,7 +32,8 @@
 - Activated Kontraption mods (except TFMG Mekanism)
 
 ## Additions
-- Added Modular Force Field System mod by QoM
+- Added Modular Force Field System mod by QoM (force field)
+- Added What's That Slot mod (for knowing which to put)
 
 # Astrocosmos v3.1.0 Forge
 
