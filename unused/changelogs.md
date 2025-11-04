@@ -1,6 +1,6 @@
 # Changelogs
 
-# Astrocosmos v4.0.0 beta
+# Astrocosmos v4.0.0 alpha
 
 ## Notices
 - Major changes because it crashes the game. schem and world may break too
