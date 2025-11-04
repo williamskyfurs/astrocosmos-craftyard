@@ -1,5 +1,39 @@
 # Changelogs
 
+# Astrocosmos v4.0.0 beta
+
+## Notices
+- Major changes because it crashes the game. schem and world may break too
+- i could not remove any create addon mods, because of how they usefull especially in space theme
+
+## Removals
+
+## Deactivations
+- Deactivated Create addon mods (because it is not compatible with Create6 patch 8, and make the game crashes)
+  - Create Dreams n Desires
+  - Create Better Storage
+  - Create Design and Decor
+  - Create Steam and Rails
+  - Create Dyanmic Light
+  - Create The Factory Must Grow
+ - Deactivate Valkyrien Skies addon mods (because it is not compatible with Create 6)
+  - Clockwork
+  - Create: Interactive
+  - Trackwork
+  - VStuff
+  - Valkyrien War and Peace
+  - Void Power (latest update existed, but still not compatible with VSxC6)
+  - VS Addition
+
+## Updates
+- Updated VS so its compatible with Create 6 (FINALLY)
+- Updated Create and all of its addon mods
+- Updated MCreatorMemFix
+- Activated Kontraption mods (except TFMG Mekanism)
+
+## Additions
+- Added Modular Force Field System mod by QoM
+
 # Astrocosmos v3.1.0 Forge
 
 ## Notices
