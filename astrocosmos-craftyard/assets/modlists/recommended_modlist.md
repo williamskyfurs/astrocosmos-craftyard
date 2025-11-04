@@ -50,9 +50,9 @@ You can use it as intended with 64-128 chunk render, or you can use it with stan
 - Neruina ✅
 
 ## Render Optimizations
-- ColorWheel + Patcher  
+- ColorWheel + Patcher  ✅!!!
   (this only works with Create 6 really. Create 5 alternative is Flywheel Oculus Compat)
-- Create Better FPS (Ponder ...?)
+- Create Better FPS ✅!!!
 - Cull (Less) Leaves ✅!!!
 - Embeddium ✅
 - Embeddium Extra ✅
