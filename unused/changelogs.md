@@ -6,6 +6,7 @@
 - Will be beta after all the VS addon compatible with current VS
 - Major changes because it crashes the game. schem and world may break too
 - i could not remove any create addon mods, because of how they usefull especially in space theme
+- v5 will be the last major update of the modpack (maybe)
 
 ## Removals
 
@@ -33,6 +34,7 @@
 - Activated Kontraption mods (except TFMG Mekanism)
 
 ## Additions
+- Added Forgeshot mod (taking screenshot)
 - VS Mecha (in disabled state)
 - Added Modular Force Field System mod by QoM (force field)
 - Added What's That Slot mod (for knowing which to put)
