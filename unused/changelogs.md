@@ -11,11 +11,11 @@
 ## Removals
 
 ## Deactivations
+- Deprecated Petrol's Parts and Petrolpark's Library (mostly related to automation)
 - Deactivated Create addon mods (because it is not compatible with Create6 patch 8, and make the game crashes)
   - Create Dreams n Desires
   - Create Better Storage
   - Create Design and Decor
-  - Create Steam and Rails
   - Create Dyanmic Light
   - Create The Factory Must Grow
 - Deactivate Valkyrien Skies addon mods (because it is not compatible with Create 6)
@@ -25,22 +25,35 @@
   - VStuff
   - Valkyrien War and Peace
   - Void Power (latest update existed, but still not compatible with VSxC6)
-  - VS Addition
+  - Drive by Wire
+- Deactivated Cosmic Addition (still dont know how it works)
 
 ## Updates
 - Updated VS so its compatible with Create 6 (FINALLY)
 - Updated Create and all of its addon mods
 - Updated MCreatorMemFix
+- Updated Dye Depot and Dye the World mod
 - Activated Kontraption mods (except TFMG Mekanism)
+- Activated Steam n Rails mod
+- Activated VS Additions
 
 ## Additions
+- Added a new folder for compatible optional mods
+  - Added Xaero World Map mod (Map viewer)
+  - Added Xaero Zoom Out
+  - Added CMDCam mod (Cinematic camera)
+  - Added Creative Core
+  - Added Immersive Painting (building references)
 - Added Forgeshot mod (taking screenshot)
-- VS Mecha (in disabled state)
+- Added VS Mecha (in disabled state)
 - Added Modular Force Field System mod by QoM (force field)
 - Added What's That Slot mod (for knowing which to put)
-- Added Create Better FPS
-- Added Colorwheel + Patcher
-- Added Zero Point Labs
+- Added Create Better FPS mod
+- Added Colorwheel + Patcher mod (shader mod)
+- Added Zero Point Labs mod (flight method)
+- Added Create: Extra Gauges mod
+- Added Valkyrien Logistic mod
+- Added Beyond Oxygen mod
 
 # Astrocosmos v3.1.0 Forge
 
