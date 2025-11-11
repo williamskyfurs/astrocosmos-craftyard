@@ -49,7 +49,7 @@ go [here](https://modrinth.com/modpack/creative-infinity-astrocosmos) for the mo
 
 # Astrocosmos Modpack
 
-Astrocosmos is a Minecraft modpack from the series Creative Infinity that focuses on space exploration and mechanic. The main goal of this modpack is making you to be infinitely creative when building your world and ship, so you can admire and explore the microscale of our cosmos! This modpack also include fantasy military that at least blends subtly in your space-themed creativity. As the name suggest, this modpack is non-progressional thus not suitable for playing in survival mode, but ill try to make every mod within are compatible for each other. Enjoy the modpack! Angkasa!
+Astrocosmos is a Minecraft modpack from the series Creative Infinity that focuses on space exploration and mechanic.  It's a collection of mods rather than a "modpack".The main goal of this modpack is making you to be infinitely creative when building your world and ship, so you can admire and explore the microscale of our cosmos! This modpack also include fantasy military that at least blends subtly in your space-themed creativity. As the name suggest, this modpack is non-progressional thus not suitable for playing in survival mode, but ill try to make every mod within are compatible for each other. Enjoy the modpack! Angkasa!
 
 > [!CAUTION]
 **Astrocosmos modpack needs to run in Minecraft 1.20.1 Forge 47.4.0 with allocated RAM greater than 8GB (i dont know why QwQ)**
